@@ -1,0 +1,2 @@
+# premium-aileron-hinge-001-aileron-hinge-building-pin-c
+Tired of losing track of hinge dimensions, pin tolerances, and build steps across scattered notes and spreadsheets? The Aileron Hinge Building &amp; Pin Craft Hub transforms your Notion workspace into a single source of truth for every aileron and pin project — no more forgotten measurements or duplicated effort.  This template solves the chaos of mana
